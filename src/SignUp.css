@@ -1,0 +1,20 @@
+.btn-facebook{ 
+    height: 35px; 
+    padding-top:8px; 
+    margin-bottom: 10px; 
+    color:#fff;
+    background-color:#3b5998;
+    border-color:rgba(0,0,0,0.2)
+    }
+    
+.btn-google-plus{ 
+    height: 35px; 
+    padding-top:8px;
+    color:#fff;
+    background-color:#dd4b39;
+    border-color:rgba(0,0,0,0.2)
+    }
+    
+.fa-facebook, .fa-google-plus{
+    padding: 0 10px;
+    }

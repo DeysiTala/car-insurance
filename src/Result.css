@@ -1,0 +1,50 @@
+#card {
+    width: 100%;
+    border: none;
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color:  #fff;
+  }
+  
+  
+  #info-card {
+    width: 100%;
+    border: 1px solid rgb(215, 215, 215);
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 20px;
+  
+  }
+  
+  .thumbnail> img {
+    height: 150px;
+    width: 200px;
+    
+  }
+  #name{
+    text-align: center;
+  }
+  #card-info{
+    text-align: justify;
+  }
+  #btnNext {
+    max-width: 400;
+    margin: '0 auto 10px';
+    border: solid 2px #fff;
+    border-radius: 46px;
+    color: #4BCAA4;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+  }
+#btnNext {
+    max-width: 400;
+    margin: '0 auto 10px';
+}
+.user-info{
+  padding: 10px 10px;
+  color:white;
+  background-color: #4BCAA4;
+  border-radius: 10px;
+}

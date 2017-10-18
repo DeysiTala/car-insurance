@@ -1,0 +1,54 @@
+*{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.s-car{
+  width:90%;
+  height: 90vh;
+  background-image: url('carr.jpg') ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 10px;
+}
+.box{
+  font-size: 13.5px;
+  font-weight: 700;
+  color:#333333;
+  width: 90px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  height: 50px;
+  border:2px solid #ccc;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  cursor: hand;
+}
+.selected{
+  background-color:#56CDA9;
+  color:white;
+  border:2px solid #fff ;
+}
+.one{
+  display: flex;
+  justify-content: center;
+}
+.two{
+  display: flex;
+  justify-content: space-between;
+}
+.btn{
+  border:white 3px solid;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: #4BCAA4;
+}
+.btn:hover{
+  color:white;
+}
